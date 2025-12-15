@@ -16,4 +16,4 @@ A simple task manager with:
 2. Open a terminal in the project folder.
 3. Run:
    ```bash
-   python todo_app.py
+   python ToDo_App.py
