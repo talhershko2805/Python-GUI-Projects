@@ -11,8 +11,6 @@ A simple task manager with:
 - Save tasks to a local file (`tasks.txt`)
 - Load tasks from the file
 
-Folder: `todo_app/`
-
 ## How to run a project
 1. Make sure Python is installed (3.10+ recommended).
 2. Open a terminal in the project folder.
