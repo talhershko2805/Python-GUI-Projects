@@ -24,7 +24,6 @@ A simple GUI with:
 3. Run (for ToDoApp):
    ```bash
    python ToDo_App.py
-   
-   Run (for TipApp):
+4. Run (for TipApp):
    ```bash
    python TipCalculator.py
