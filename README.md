@@ -21,7 +21,10 @@ A simple GUI with:
 ## How to run a project
 1. Make sure Python is installed (3.10+ recommended).
 2. Open a terminal in the project folder.
-3. Run:
+3. Run (for ToDoApp):
    ```bash
    python ToDo_App.py
+   
+   Run (for TipApp):
+   ```bash
    python TipCalculator.py
