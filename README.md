@@ -12,14 +12,14 @@ A simple task manager with:
 - Load tasks from the file
 
 ### 2) Tip Calculator App (Tkinter)
-A simple GUI with:
+A simple GUI (and exe) with:
 - Add total bill
 - Add tip in precentage
 - Apply the number of people splitting the bill
 - Calculate the bill per person
 
 ### 3) Smart Shopping App (Tkinter)
-A simple GUI (and exe) with:
+A simple GUI with:
 - Add new item (without duplicates)
 - Remove specific item
 - Clear whole list
