@@ -18,12 +18,17 @@ A simple GUI with:
 - Apply the number of people splitting the bill
 - Calculate the bill per person
 
+### 3) Smart Shopping App (Tkinter)
+A simple GUI (and exe) with:
+- Add new item (without duplicates)
+- Remove specific item
+- Clear whole list
+- Status update 
+
 ## How to run a project
 1. Make sure Python is installed (3.10+ recommended).
 2. Open a terminal in the project folder.
-3. Run (for ToDoApp):
+3. Run (for SmartShoppingGUI):
    ```bash
-   python ToDo_App.py
-4. Run (for TipApp):
-   ```bash
-   python TipCalculator.py
+   python SmartShoppingGUI.py
+
